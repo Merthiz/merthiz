@@ -1,7 +1,7 @@
 # Hello World!, eu sou Kaique!
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/180328929?v=4" width="800" alt="Banner do Perfil">
+  <img src="https://avatars.githubusercontent.com/u/180328929?v=4" width="400" alt="Banner do Perfil">
 </p>
 
 ## 🚀 Sobre Mim
@@ -19,13 +19,12 @@ Sou um estudante de Ciências da Computação em busca da minha experiência pro
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=merthiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merthiz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
----
 
 ## 📫 Conecte-se Comigo
 <p align="left">
