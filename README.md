@@ -24,6 +24,10 @@ Sou um estudante de Ciências da Computação em busca da minha experiência pro
   <a href="https://github.com/merthiz/Tudu-s-list">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Tudu-s-lists&theme=dracula&show_owner=true"/>
   </a>
+  <p align="left">
+  <a href="https://github.com/merthiz/bookbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=bookbot&theme=dracula&show_owner=true"/>
+  </a>
 
 ### Repositórios de Estudo
 <p align="left">
