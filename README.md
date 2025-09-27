@@ -5,15 +5,31 @@
 </p>
 
 ## 🚀 Sobre Mim
-Sou um estudante de Ciências da Computação em busca da minha experiência profisional na área. Atualmente, sigo meus estudos para a área de Desenvolvimento Back-End, onde você pode ver meu progresso com meus repositórios aqui
+Sou um estudante de Ciências da Computação em busca da minha experiência profisional na área. Atualmente, sigo meus estudos para a área de Desenvolvimento Back-End, onde você poderá visualizar meu progresso com meus repositórios.
 
 
 ## 🛠️ Habilidades & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,docker,aws,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,django,py,js,go,linux,java,docker,html,css,js&perline=6" />
   </a>
 </p>
+
+---
+
+## ✨ Projetos
+
+### Principais Projetos
+<p align="left">
+  <a href="https://github.com/merthiz/Tudu-s-list">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Tudu-s-lists&theme=dracula&show_owner=true"/>
+  </a>
+
+### Repositórios de Estudo
+<p align="left">
+  <a href="https://github.com/Merthiz/Exercicios">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Exercicios&theme=dracula&show_owner=true"/>
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -29,3 +45,4 @@ Sou um estudante de Ciências da Computação em busca da minha experiência pro
 ## 📫 Conecte-se Comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/kaiquesdsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
