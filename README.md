@@ -21,8 +21,8 @@ Sou um estudante de Ciências da Computação em busca da minha experiência pro
 
 ### Principais Projetos
 <p align="left">
-  <a href="https://github.com/merthiz/Tudu-s-list">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Tudu-s-lists&theme=dracula&show_owner=true"/>
+  <a href="https://github.com/merthiz/Asteroids">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Asteroids&theme=dracula&show_owner=true"/>
   </a>
   <p align="left">
   <a href="https://github.com/merthiz/bookbot">
