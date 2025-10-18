@@ -1,4 +1,4 @@
-# Hello World!, eu sou Kaique!
+# Hello World!, Eu sou Kaique!
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/180328929?v=4" width="400" alt="Banner do Perfil">
@@ -22,7 +22,7 @@ Sou um estudante de Ciências da Computação em busca da minha experiência pro
 ### Principais Projetos
 <p align="left">
   <a href="https://github.com/Kaique-S-Silva/AsteroidsProject">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique-s-silva&repo=Asteroids&theme=dracula&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique-s-silva&repo=asteroidsproject&theme=dracula&show_owner=true"/>
   </a>
   <p align="left">
   <a href="https://github.com/Kaique-S-Silva/bookbot">
