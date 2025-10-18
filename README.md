@@ -21,28 +21,28 @@ Sou um estudante de Ciências da Computação em busca da minha experiência pro
 
 ### Principais Projetos
 <p align="left">
-  <a href="https://github.com/merthiz/Asteroids">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Asteroids&theme=dracula&show_owner=true"/>
+  <a href="https://github.com/Kaique-S-Silva/AsteroidsProject">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique-s-silva&repo=Asteroids&theme=dracula&show_owner=true"/>
   </a>
   <p align="left">
-  <a href="https://github.com/merthiz/bookbot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=bookbot&theme=dracula&show_owner=true"/>
+  <a href="https://github.com/Kaique-S-Silva/bookbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique-s-silva&repo=bookbot&theme=dracula&show_owner=true"/>
   </a>
 
 ### Repositórios de Estudo
 <p align="left">
-  <a href="https://github.com/Merthiz/Exercicios">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=merthiz&repo=Exercicios&theme=dracula&show_owner=true"/>
+  <a href="https://github.com/Kaique-S-Silva/Exercicios">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique-s-silva&repo=Exercicios&theme=dracula&show_owner=true"/>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=merthiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaique-s-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merthiz&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-s-silva&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
